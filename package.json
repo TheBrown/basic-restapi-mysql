@@ -1,0 +1,21 @@
+{
+  "name": "awesome-api",
+  "version": "1.0.0",
+  "description": "test product restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kuy"
+  ],
+  "author": "saleumsack keoboualay",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
